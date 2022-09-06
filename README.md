@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mukherjeeuttio
-- 👀 I’m interested in Coding in general, Machine learning in particular
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Artificial Intelligence and Machine Learning
+- 👀 I’m interested to contribute to open source
+- 🌱 I’m currently learning Data Structures and Algorithms
+- 💞️ I’m looking to collaborate on Artificial Intelligence and Machine Learning, Data Science
 - 📫 How to reach me mukherjeeuttio@gmail.com
 
 <!---
